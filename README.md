@@ -1,0 +1,1 @@
+A simple sketchpad application.
