@@ -1,8 +1,8 @@
 .container {
-    width: 800px;
-    height: 800px;
+    width: 700px;
+    height: 700px;
     position: relative;
-    top: 100px;
+    top: 50px;
     margin: auto;
     display: grid;
     grid-template-columns: repeat(16, 1fr);
@@ -17,7 +17,7 @@ body {
 
 .button {
     position: relative;
-    top: 50px;
+    top: 20px;
     display: block;
     margin: auto;
 }
